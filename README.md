@@ -9,5 +9,5 @@
 	For the same reason, I choose to use jupyter notebooks instead of plain python, in order to comment each step and to have major control on my experiments.
 </p>
 <p>
-	Some notebooks only contain useful functions like the check for linear separability.
+	Some notebooks only contain useful functions like the check for linear separability, or how tos, like PCA and LDA.
 </p>
